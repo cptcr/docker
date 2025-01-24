@@ -1,0 +1,7 @@
+name: Multi-Coding-Languages-v1
+version: 1.0.0
+description: "A multi-language Docker image with Python, Node.js, Java, and more"
+dockerfile: Dockerfile
+tags:
+  - latest
+source: https://github.com/cptcr/docker
